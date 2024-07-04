@@ -1,0 +1,10 @@
+D:\APenyimpanan\PKL\Latih8_WinformEvent\bin\Debug\Latih8_WinformEvent.exe.config
+D:\APenyimpanan\PKL\Latih8_WinformEvent\bin\Debug\Latih8_WinformEvent.exe
+D:\APenyimpanan\PKL\Latih8_WinformEvent\bin\Debug\Latih8_WinformEvent.pdb
+D:\APenyimpanan\PKL\Latih8_WinformEvent\obj\Debug\Latih8_WinformEvent.csproj.AssemblyReference.cache
+D:\APenyimpanan\PKL\Latih8_WinformEvent\obj\Debug\Latih8_WinformEvent.Form1.resources
+D:\APenyimpanan\PKL\Latih8_WinformEvent\obj\Debug\Latih8_WinformEvent.Properties.Resources.resources
+D:\APenyimpanan\PKL\Latih8_WinformEvent\obj\Debug\Latih8_WinformEvent.csproj.GenerateResource.cache
+D:\APenyimpanan\PKL\Latih8_WinformEvent\obj\Debug\Latih8_WinformEvent.csproj.CoreCompileInputs.cache
+D:\APenyimpanan\PKL\Latih8_WinformEvent\obj\Debug\Latih8_WinformEvent.exe
+D:\APenyimpanan\PKL\Latih8_WinformEvent\obj\Debug\Latih8_WinformEvent.pdb
